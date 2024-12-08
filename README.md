@@ -6,11 +6,11 @@
 
 ## Лабораторные работы
 
-- Лабораторная работа №1 ([PDF](labs/lab-1/lab.pdf), [DOCX](labs/lab-1/lab.docx)).
-- Лабораторная работа №2 ([PDF](labs/lab-2/lab.pdf), [DOCX](labs/lab-2/lab.docx)).
-- Лабораторная работа №3 ([PDF](labs/lab-3/lab.pdf), [DOCX](labs/lab-3/lab.docx)).
-- Лабораторная работа №4 ([PDF](labs/lab-4/lab.pdf), [DOCX](labs/lab-4/lab.docx)).
-- Лабораторная работа №5 ([PDF](labs/lab-5/lab.pdf), [DOCX](labs/lab-5/lab.docx)).
+- Лабораторная работа №1 ([задание](labs/lab-1/task.pdf), [PDF](labs/lab-1/lab.pdf), [DOCX](labs/lab-1/lab.docx)).
+- Лабораторная работа №2 ([задание](labs/lab-1/task.pdf), [PDF](labs/lab-2/lab.pdf), [DOCX](labs/lab-2/lab.docx)).
+- Лабораторная работа №3 ([задание](labs/lab-1/task.pdf), [PDF](labs/lab-3/lab.pdf), [DOCX](labs/lab-3/lab.docx)).
+- Лабораторная работа №4 ([задание](labs/lab-1/task.pdf), [PDF](labs/lab-4/lab.pdf), [DOCX](labs/lab-4/lab.docx)).
+- Лабораторная работа №5 ([задание](labs/lab-1/task.pdf), [PDF](labs/lab-5/lab.pdf), [DOCX](labs/lab-5/lab.docx)).
 
 ## Контакты
 
